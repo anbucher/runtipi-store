@@ -1,0 +1,10 @@
+{
+  "services": [
+    {
+      "name": "FinTS Importer",
+      "image": "image: benkl/firefly-iii-fints-importer",
+      "isMain": true,
+      "internalPort": "8080"
+    }
+  ]
+}
