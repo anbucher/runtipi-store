@@ -2,15 +2,15 @@
   "name": "FinTS Importer",
   "id": "fintsimporter",
   "available": true,
-  "short_desc": "Tiny Go server that prints os information and HTTP request to output.",
-  "author": "traefik",
+  "short_desc": "Import transactions from your FinTS enabled bank into Firefly III",
+  "author": "bnw",
   "port": 8382,
   "categories": [
     "utilities"
   ],
   "description": "Import transactions from your FinTS enabled bank into Firefly III",
   "tipi_version": 2,
-  "version": "v1.0",
+  "version": "v1.1",
   "source": "https://github.com/bnw/firefly-iii-fints-importer",
   "exposable": true,
   "supported_architectures": [
