@@ -4,7 +4,14 @@
       "name": "fintsimporter",
       "image": "benkl/firefly-iii-fints-importer",
       "isMain": true,
-      "internalPort": "8080"
+      "internalPort": "8080",
+      "volumes": [
+        {
+          "hostPath": "${APP_DATA_DIR}/configurations",
+          "containerPath": "data/configurations",
+          "readOnly": true
+        }
+      ]
     }
   ]
 }
