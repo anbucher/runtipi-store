@@ -15,7 +15,7 @@
           "hostPath": "${APP_DATA_DIR}/configurations",
           "containerPath": "/data/configurations",
           "readOnly": false
-        },
+        }
       ]
     }
   ]
