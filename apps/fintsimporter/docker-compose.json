@@ -8,7 +8,7 @@
       "volumes": [
         {
           "hostPath": "${APP_DATA_DIR}/configurations",
-          "containerPath": "/app/data/configurations",
+          "containerPath": "/data/configurations",
           "readOnly": false
         }
       ]
