@@ -9,8 +9,8 @@
     "utilities"
   ],
   "description": "Import transactions from your FinTS enabled bank into Firefly III",
-  "tipi_version": 2,
-  "version": "1.8",
+  "tipi_version": 4,
+  "version": "1.9",
   "source": "https://github.com/bnw/firefly-iii-fints-importer",
   "exposable": true,
   "supported_architectures": [
