@@ -9,7 +9,7 @@
     "utilities"
   ],
   "description": "Import transactions from your FinTS enabled bank into Firefly III",
-  "tipi_version": 4,
+  "tipi_version": 5,
   "version": "2.0",
   "source": "https://github.com/bnw/firefly-iii-fints-importer",
   "exposable": true,
@@ -17,8 +17,8 @@
     "arm64",
     "amd64"
   ],
-  "created_at": 1754855952000,
-  "updated_at": 1757432290000,
+  "created_at": 1771961173000,
+  "updated_at": 1771961173000,
   "dynamic_config": true,
   "form_fields": []
 }
