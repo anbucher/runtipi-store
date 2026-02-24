@@ -3,7 +3,7 @@
   "services": [
     {
       "name": "fintsimporter",
-      "image": "benkl/firefly-iii-fints-importer:2026-02-04",
+      "image": "benkl/firefly-iii-fints-importer:2026-01-06",
       "isMain": true,
       "internalPort": "8080",
       "volumes": [
